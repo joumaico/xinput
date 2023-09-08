@@ -1,0 +1,5 @@
+[ENABLE]
+devices = []
+
+[DISABLE]
+devices = ["ELAN Touchscreen"]
